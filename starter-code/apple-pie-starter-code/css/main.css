@@ -1,0 +1,59 @@
+
+
+html, body {
+    height: 100%;
+}
+
+
+
+
+.recipe{
+  width: 500px;
+  height: 2000px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: solid black;
+}
+
+.Ingredients2 {
+  padding-left: 400px;
+
+}
+
+.Directions {
+  padding-left: 400px;
+}
+
+#mainpic {
+  padding-left: 300px;
+
+}
+
+#paragraph1 {
+  padding-left: 400px;
+  font-size: 14px;
+  font: helvetica;
+  color: black;
+  top: 30px;
+
+}
+
+#maintitle {
+padding-left: 570px;
+position: relative;
+top: 200px;
+color: white;
+font-size: 40px;
+
+}
+#firstsetofinfos {
+  padding-left: 420px;
+}
+
+#secondsetofinfos {
+  padding-left: 420px;
+}
+
+.separator {
+  align-self: center;
+}
